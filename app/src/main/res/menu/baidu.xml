@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/baidu_common"
+        android:title="@string/common"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/baidu_satellite"
+        android:title="@string/satellite"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/baidu_traffic"
+        android:title="@string/traffic"
+        app:showAsAction="never"
+        ></item>
+    <item
+        android:id="@+id/baidu_over"
+        android:title="@string/traffic"
+        app:showAsAction="never"
+        ></item>
+</menu>

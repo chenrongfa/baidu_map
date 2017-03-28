@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Baiditu</string>
+    <string name="common">普通地图</string>
+    <string name="satellite">卫星地图</string>
+    <string name="traffic">交通图</string>
+    <string name="search">搜索</string>
+</resources>
